@@ -1,2 +1,3 @@
 venv
 .env
+SECRET_KEY = 'django-insecure-qd220rs5)bsix)(=yw93)=3z64x1@h6581d$!e8c#xniwdy%z0'
